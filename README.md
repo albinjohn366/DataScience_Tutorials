@@ -3,6 +3,12 @@ If we try to think of it in visual terms, our training data set is scattered on 
 
 Our objective is to get the best possible line. The best possible line will be such so that the average squared vertical distances of the scattered points from the line will be the least. Ideally, the line should pass through all the points of our training data set. In such a case, the value of cost function will be 0. The following example shows the ideal situation where we have a cost function of 0. 
 
+<img width="450" alt="Screenshot 2022-03-14 013410" src="https://user-images.githubusercontent.com/68287058/169163795-07cd0cdb-b7ae-4625-9294-a6be16ab5ce5.png">
+
+<img width="450" alt="Screenshot 2022-03-14 013410" src="https://user-images.githubusercontent.com/68287058/169163798-01c7ff8f-5ff8-42fa-bb69-b3556105cda3.png">
+
+<img width="450" alt="Screenshot 2022-03-14 013410" src="https://user-images.githubusercontent.com/68287058/169163799-6cc21005-16ca-4e86-a809-0e06ebb58dab.png">
+
 ## Linear Regression
 
 ### Gradient Descent Algorithm
@@ -11,7 +17,7 @@ Gradient descent (GD) is an iterative first-order optimisation algorithm used to
 #### Feature Scaling
 This is a technique used to reduce the range of data points such that it is easier to find the local minima than compared to a skewed range of datapoints.
 
-<img width="225" alt="Screenshot 2022-03-14 013410" src="https://user-images.githubusercontent.com/68287058/158111617-3f3702a0-b314-4e5e-8bef-cd4fd3dd87f7.png">
+<img width="450" alt="Screenshot 2022-03-14 013410" src="https://user-images.githubusercontent.com/68287058/158111617-3f3702a0-b314-4e5e-8bef-cd4fd3dd87f7.png">
 
 #### Mean Normalization
 This is one way of feature scaling. Feature scaling is done using the formula: (x - mean) / n. Here n is the range of datapoints and x is the value of the data point.
