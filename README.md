@@ -16,7 +16,15 @@ Imagine that we graph our hypothesis function based on its fields \theta_0 and \
 
 We put \theta_0 on the x axis and \theta_1 on the y axis, with the cost function on the vertical z axis. The points on our graph will be the result of the cost function using our hypothesis with those specific theta parameters. The graph below depicts such a setup.
 
-<img width="450" alt="Screenshot 2022-03-14 013410" src="https://user-images.githubusercontent.com/68287058/169163799-6cc21005-16ca-4e86-a809-0e06ebb58dab.png">
+<img width="450" alt="Screenshot 2022-03-14 013410" src="https://user-images.githubusercontent.com/68287058/169720263-a4e43ef6-b139-4395-9551-3164523523a8.png">
+
+We will know that we have succeeded when our cost function is at the very bottom of the pits in our graph, i.e. when its value is the minimum.  The red arrows show the minimum points in the graph.
+
+The way we do this is by taking the derivative (the tangential line to a function) of our cost function. The slope of the tangent is the derivative at that point and it will give us a direction to move towards. We make steps down the cost function in the direction with the steepest descent. The size of each step is determined by the parameter α, which is called the learning rate. 
+
+<img width="250" alt="Screenshot 2022-03-14 013410" src="https://editor.analyticsvidhya.com/uploads/36152Screenshot%20(43).png">
+
+<img width="450" alt="Screenshot 2022-03-14 013410" src="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/yr-D1aDMEeai9RKvXdDYag_627e5ab52d5ff941c0fcc741c2b162a0_Screenshot-2016-11-02-00.19.56.png?expiry=1653350400000&hmac=xpLt-aWqrL9PN5Jkh0EovFHjkxIqLSEAhyKM-UoU8Zg">
 
 ## Linear Regression
 
@@ -25,8 +33,6 @@ Gradient descent (GD) is an iterative first-order optimisation algorithm used to
 
 #### Feature Scaling
 This is a technique used to reduce the range of data points such that it is easier to find the local minima than compared to a skewed range of datapoints.
-
-<img width="450" alt="Screenshot 2022-03-14 013410" src="https://user-images.githubusercontent.com/68287058/169720263-a4e43ef6-b139-4395-9551-3164523523a8.png">
 
 #### Mean Normalization
 This is one way of feature scaling. Feature scaling is done using the formula: (x - mean) / n. Here n is the range of datapoints and x is the value of the data point.
