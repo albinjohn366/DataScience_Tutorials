@@ -24,6 +24,8 @@ The way we do this is by taking the derivative (the tangential line to a functio
 
 <img width="250" alt="Screenshot 2022-03-14 013410" src="https://editor.analyticsvidhya.com/uploads/36152Screenshot%20(43).png">
 
+<img width="250" alt="Screenshot 2022-03-14 013410" src="https://editor.analyticsvidhya.com/uploads/36152Screenshot%20(43).png">
+
 ## Linear Regression
 
 ### Gradient Descent Algorithm
