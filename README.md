@@ -24,7 +24,7 @@ The way we do this is by taking the derivative (the tangential line to a functio
 
 <img width="250" alt="Screenshot 2022-03-14 013410" src="https://editor.analyticsvidhya.com/uploads/36152Screenshot%20(43).png">
 
-<img width="450" alt="Screenshot 2022-03-14 013410" src="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/yr-D1aDMEeai9RKvXdDYag_627e5ab52d5ff941c0fcc741c2b162a0_Screenshot-2016-11-02-00.19.56.png?expiry=1653350400000&hmac=xpLt-aWqrL9PN5Jkh0EovFHjkxIqLSEAhyKM-UoU8Zg">
+<img width="450" alt="Screenshot 2022-03-14 013410" src="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/yrD1aDMEeai9RKvXdDYag_627e5ab52d5ff941c0fcc741c2b162a0_Screenshot-2016-11-02-00.19.56.png">
 
 ## Linear Regression
 
