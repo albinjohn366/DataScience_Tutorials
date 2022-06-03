@@ -28,10 +28,9 @@ The way we do this is by taking the derivative (the tangential line to a functio
 
 On a side note, we should adjust our parameter α to ensure that the gradient descent algorithm converges in a reasonable time. Failure to converge or too much time to obtain the minimum value imply that our step size is wrong.
 
-![image](https://user-images.githubusercontent.com/68287058/171886004-54a9a02e-2a4d-419b-88c0-e8a2898982c5.png)
+<img width="500" alt="Screenshot 2022-03-14 013410" src="https://user-images.githubusercontent.com/68287058/171886004-54a9a02e-2a4d-419b-88c0-e8a2898982c5.png">
 
-![image](https://user-images.githubusercontent.com/68287058/171885578-fdf5e5d4-5692-4d98-bdfa-4cc26e4480eb.png)
-
+<img width="500" alt="Screenshot 2022-03-14 013410" src="https://user-images.githubusercontent.com/68287058/171885578-fdf5e5d4-5692-4d98-bdfa-4cc26e4480eb.png">
 
 ## Linear Regression
 
